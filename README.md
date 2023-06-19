@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGb11hSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Sween Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://in.pinterest.com/pin/601160250270667206/"></img>
+<img align="right" alt="coding" width="400" src="/"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweenkhan&label=Profile%20views&color=0e75b6&style=flat" alt="sweenkhan" /> </p>
 
