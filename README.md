@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Front-End Devlopment**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React.JS, Node.JS, Express, MongoDB, RestAPI**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React.JS, Node.JS, Express, MongoDB, VCS, RestAPI**
 
 - 📫 How to reach me **khansween@gmail.com**
 
