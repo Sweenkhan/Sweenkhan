@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Full Stack Web-Developer**
 
-- 👯 I’m looking to collaborate on **Front-End Devlopment**
+- 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React.JS, Node.JS, Express, MongoDB, VCS, RestAPI**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, Tailwind CSS, React.JS, Node.JS, Express, MongoDB, VCS, RestAPI**
 
 - 📫 How to reach me **khansween@gmail.com**
 
